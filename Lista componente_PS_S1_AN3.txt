@@ -1,0 +1,8 @@
+LED - 4 buc - 2.5 LEI
+Rezistori 1K - 12 buc- 4 LEI
+Display 7 segments - 1 buc - 3.5 LEI
+Buton cu revenire - 1 buc - 0.5 LEI
+Placa dezvoltare Arduino - 1 buc - 30 LEI
+Fire - 5 LEI
+---------------------------------------------
+TOTAL: 40,5 LEI
