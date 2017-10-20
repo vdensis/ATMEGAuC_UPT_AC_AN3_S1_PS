@@ -1,0 +1,65 @@
+D:\Faculta\An III\Pr Sincretic\UI\Project_1\Project_1\bin\Release\Project_1.exe
+D:\Faculta\An III\Pr Sincretic\UI\Project_1\Project_1\bin\Release\Project_1.pdb
+D:\Faculta\An III\Pr Sincretic\UI\Project_1\Project_1\bin\Release\Project_1.xml
+D:\Faculta\An III\Pr Sincretic\UI\Project_1\Project_1\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Faculta\An III\Pr Sincretic\UI\Project_1\Project_1\obj\x86\Release\Project_1.Form1.resources
+D:\Faculta\An III\Pr Sincretic\UI\Project_1\Project_1\obj\x86\Release\Project_1.Resources.resources
+D:\Faculta\An III\Pr Sincretic\UI\Project_1\Project_1\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Faculta\An III\Pr Sincretic\UI\Project_1\Project_1\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Faculta\An III\Pr Sincretic\UI\Project_1\Project_1\obj\x86\Release\Project_1.exe
+D:\Faculta\An III\Pr Sincretic\UI\Project_1\Project_1\obj\x86\Release\Project_1.xml
+D:\Faculta\An III\Pr Sincretic\UI\Project_1\Project_1\obj\x86\Release\Project_1.pdb
+D:\Faculta\An III\Pr Sincretic\work\UI\Project_2\Project_1\obj\x86\Release\Project_1.exe
+D:\Faculta\An III\Pr Sincretic\work\UI\Project_2\Project_1\obj\x86\Release\Project_1.xml
+D:\Faculta\An III\Pr Sincretic\work\UI\Project_2\Project_1\obj\x86\Release\Project_1.pdb
+D:\Faculta\An III\Pr Sincretic\work\UI\Project_2\Project_1\bin\Release\Project_1.exe
+D:\Faculta\An III\Pr Sincretic\work\UI\Project_2\Project_1\bin\Release\Project_1.pdb
+D:\Faculta\An III\Pr Sincretic\work\UI\Project_2\Project_1\bin\Release\Project_1.xml
+D:\Faculta\An III\Pr Sincretic\work\UI\Project_2\Project_1\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Faculta\An III\Pr Sincretic\work\UI\Project_2\Project_1\obj\x86\Release\Project_1.Form1.resources
+D:\Faculta\An III\Pr Sincretic\work\UI\Project_2\Project_1\obj\x86\Release\Project_1.Resources.resources
+D:\Faculta\An III\Pr Sincretic\work\UI\Project_2\Project_1\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Faculta\An III\Pr Sincretic\work\UI\Project_2\Project_1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\ciuclea\Desktop\UI\Project_2\Project_1\obj\x86\Release\Project_1.exe
+C:\Users\ciuclea\Desktop\UI\Project_2\Project_1\obj\x86\Release\Project_1.xml
+C:\Users\ciuclea\Desktop\UI\Project_2\Project_1\obj\x86\Release\Project_1.pdb
+C:\Users\ciuclea\Desktop\UI\Project_2\Project_1\bin\Release\Project_1.exe
+C:\Users\ciuclea\Desktop\UI\Project_2\Project_1\bin\Release\Project_1.pdb
+C:\Users\ciuclea\Desktop\UI\Project_2\Project_1\bin\Release\Project_1.xml
+C:\Users\ciuclea\Desktop\UI\Project_2\Project_1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\ciuclea\Desktop\UI\Project_2\Project_1\obj\x86\Release\Project_1.Form1.resources
+C:\Users\ciuclea\Desktop\UI\Project_2\Project_1\obj\x86\Release\Project_1.Resources.resources
+C:\Users\ciuclea\Desktop\UI\Project_2\Project_1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\ciuclea\Desktop\UI\Project_2\Project_1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\ciuclea\Desktop\interfata\Project_1\obj\x86\Release\Project_1.exe
+C:\Users\ciuclea\Desktop\interfata\Project_1\obj\x86\Release\Project_1.xml
+C:\Users\ciuclea\Desktop\interfata\Project_1\obj\x86\Release\Project_1.pdb
+C:\Users\ciuclea\Desktop\prj\interfata\Project_1\obj\x86\Release\Project_1.exe
+C:\Users\ciuclea\Desktop\prj\interfata\Project_1\obj\x86\Release\Project_1.xml
+C:\Users\ciuclea\Desktop\prj\interfata\Project_1\obj\x86\Release\Project_1.pdb
+C:\Users\ciuclea\Desktop\prj\interfata\Project_1\bin\Release\Project_1.exe
+C:\Users\ciuclea\Desktop\prj\interfata\Project_1\bin\Release\Project_1.pdb
+C:\Users\ciuclea\Desktop\prj\interfata\Project_1\bin\Release\Project_1.xml
+C:\Users\ciuclea\Desktop\prj\interfata\Project_1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\ciuclea\Desktop\prj\interfata\Project_1\obj\x86\Release\Project_1.Form1.resources
+C:\Users\ciuclea\Desktop\prj\interfata\Project_1\obj\x86\Release\Project_1.Resources.resources
+C:\Users\ciuclea\Desktop\prj\interfata\Project_1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\ciuclea\Desktop\prj\interfata\Project_1\obj\x86\Release\GenerateResource.write.1.tlog
+E:\An III\Semestrul 1\PS_Nanu\UPT-AC-IS_PS_S1 - Denis_Vadan[PRJ]\C#\Project_1\obj\x86\Release\Project_1.exe
+E:\An III\Semestrul 1\PS_Nanu\UPT-AC-IS_PS_S1 - Denis_Vadan[PRJ]\C#\Project_1\obj\x86\Release\Project_1.xml
+E:\An III\Semestrul 1\PS_Nanu\UPT-AC-IS_PS_S1 - Denis_Vadan[PRJ]\C#\Project_1\obj\x86\Release\Project_1.pdb
+E:\An III\Semestrul 1\PS_Nanu\UPT-AC-IS_PS_S1 - Denis_Vadan[PRJ]\C#\Project_1\obj\x86\Release\Project_1.Form1.resources
+E:\An III\Semestrul 1\PS_Nanu\UPT-AC-IS_PS_S1 - Denis_Vadan[PRJ]\C#\Project_1\obj\x86\Release\Project_1.Resources.resources
+E:\An III\Semestrul 1\PS_Nanu\UPT-AC-IS_PS_S1 - Denis_Vadan[PRJ]\C#\Project_1\obj\x86\Release\Project_1.vbproj.GenerateResource.Cache
+E:\An III\Semestrul 1\PS_Nanu\UPT-AC-IS_PS_S1 - Denis_Vadan[PRJ]\C#\Project_1\bin\Release\Project_1.exe
+E:\An III\Semestrul 1\PS_Nanu\UPT-AC-IS_PS_S1 - Denis_Vadan[PRJ]\C#\Project_1\bin\Release\Project_1.pdb
+E:\An III\Semestrul 1\PS_Nanu\UPT-AC-IS_PS_S1 - Denis_Vadan[PRJ]\C#\Project_1\bin\Release\Project_1.xml
+E:\An III\Semestrul 1\PS_Nanu\UPT-AC-IS_PS_S1 - Denis_Vadan[PRJ]\PS_AN3_IS_S1_Serial_Interface\Project_1\obj\x86\Release\Project_1.exe
+E:\An III\Semestrul 1\PS_Nanu\UPT-AC-IS_PS_S1 - Denis_Vadan[PRJ]\PS_AN3_IS_S1_Serial_Interface\Project_1\obj\x86\Release\Project_1.xml
+E:\An III\Semestrul 1\PS_Nanu\UPT-AC-IS_PS_S1 - Denis_Vadan[PRJ]\PS_AN3_IS_S1_Serial_Interface\Project_1\obj\x86\Release\Project_1.pdb
+E:\An III\Semestrul 1\PS_Nanu\UPT-AC-IS_PS_S1 - Denis_Vadan[PRJ]\PS_AN3_IS_S1_Serial_Interface\Project_1\bin\Release\Project_1.exe
+E:\An III\Semestrul 1\PS_Nanu\UPT-AC-IS_PS_S1 - Denis_Vadan[PRJ]\PS_AN3_IS_S1_Serial_Interface\Project_1\bin\Release\Project_1.pdb
+E:\An III\Semestrul 1\PS_Nanu\UPT-AC-IS_PS_S1 - Denis_Vadan[PRJ]\PS_AN3_IS_S1_Serial_Interface\Project_1\bin\Release\Project_1.xml
+E:\An III\Semestrul 1\PS_Nanu\UPT-AC-IS_PS_S1 - Denis_Vadan[PRJ]\PS_AN3_IS_S1_Serial_Interface\Project_1\obj\x86\Release\Project_1.Form1.resources
+E:\An III\Semestrul 1\PS_Nanu\UPT-AC-IS_PS_S1 - Denis_Vadan[PRJ]\PS_AN3_IS_S1_Serial_Interface\Project_1\obj\x86\Release\Project_1.Resources.resources
+E:\An III\Semestrul 1\PS_Nanu\UPT-AC-IS_PS_S1 - Denis_Vadan[PRJ]\PS_AN3_IS_S1_Serial_Interface\Project_1\obj\x86\Release\Project_1.vbproj.GenerateResource.Cache
